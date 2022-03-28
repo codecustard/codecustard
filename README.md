@@ -15,7 +15,7 @@ Currently, I enjoy working with web related tech stacks as I find them extremely
 - Whatever gets the job done.
 
 ## Some Projects
-- [Playerspace] (https://playerspace.io)
+- [Playerspace](https://playerspace.io)
 - [QR Code Generator](https://codecustard.io/qrcode)
 - [Hulu Clone](https://codecustard.io/portfolio/hulu-clone/)
 
