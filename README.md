@@ -2,7 +2,7 @@
 ## 🎥 Follow me on Twitch! 🎥 - [twitch.tv/codecustard](https://twitch.tv/codecustard)
 
 ## Tech Stack
-- ChatGPT & Flaming Hot Cheetos.
+- Claudi Kenobi, Elon's guy, Jippity & Flaming Hot Cheetos.
 
 
 <!--
